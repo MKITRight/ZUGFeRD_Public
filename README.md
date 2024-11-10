@@ -1,8 +1,10 @@
 # Prototyp eines ZUGFeRD Rechnungsprogramms
 
-Hier soll ein freies ZUGFeRD Rechnungsprogramm mit Grundlegenden Funktionen entstehen.
+Hier soll ein freies ZUGFeRD Rechnungsprogramm mit grundlegenden Funktionen entstehen.
 
 Das Projekt mache ich alleine in meiner Freizeit, entsprechend kommen Updates unregelmäßig und können Fehler enthalten.
+
+Der erste Release wird hochgeladen sobald er fertig ist und das Programm in der Lage ist eine ZUGFeRD-Rechnung zu erstellen.
 
 Geplant (kurze Zeit):
 - Kunden anlegen, bearbeiten und löschen
