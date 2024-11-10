@@ -9,7 +9,7 @@ Der erste Release wird hochgeladen sobald er fertig ist und das Programm in der 
 Geplant (kurze Zeit):
 - Kunden anlegen, bearbeiten und löschen
 - Waren und Produkte zur Vorauswahl in Rechnungserstellung anlegen, bearbeiten und löschen
-- Rechnungen anlegen und als ZUGFeRD-PDF exportieren (derzeit nur ZUGFeRD 2.1.1), Bezahlstatus von Rechnungen nachverfolgen
+- Rechnungen anlegen und als ZUGFeRD-PDF exportieren (derzeit nur ZUGFeRD 2.1.1 Extended), Bezahlstatus von Rechnungen nachverfolgen
 
 Geplant (lange Zeit):
 - Weitere Belegarten einfügen (z.B. Angebote)
