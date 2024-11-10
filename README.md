@@ -1,5 +1,4 @@
-# ZUGFeRD_Public
-Prototyp eines ZUGFeRD Rechnungsprogramms
+# Prototyp eines ZUGFeRD Rechnungsprogramms
 
 Hier soll ein freies ZUGFeRD Rechnungsprogramm mit Grundlegenden Funktionen entstehen.
 
