@@ -15,3 +15,6 @@ Geplant (lange Zeit):
 - Weitere Belegarten einfügen (z.B. Angebote)
 - EMails mit Belegen verschicken per Mail-To und/oder einprogrammiertem EMail-Sender
 - Belege als XML exportieren (XRechnung)
+
+Idee (wird nicht zwangsläufig in Programm landen):
+- SQLite-Datenbank von Programm verschlüsseln
